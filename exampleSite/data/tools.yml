@@ -57,12 +57,3 @@ tools:
   - name: Google Analytics
     image: "/images/tools/Google-Analytics.jpg"
     link: https://analytics.google.com/analytics/web
-menu:
-  main:
-    URL: tools
-    name: Projects
-    weight: 2
-  footer:
-    URL: tools
-    name: Projects
-    weight: 2
