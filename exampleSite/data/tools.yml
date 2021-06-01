@@ -17,7 +17,7 @@ tools:
   - name: Visual Studio Code
     image: "/images/tools/vs-code.png"
     link: https://code.visualstudio.com/
-- title: Design Tools
+- title: Amazon Web Services
   tool:
   - name: Sketch
     image: "/images/tools/sketch.png"
