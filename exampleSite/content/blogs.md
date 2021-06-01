@@ -1,6 +1,12 @@
 +++
 draft = true
 title = "blogs"
+[menu.footer]
+name = "Blogs"
+weight = 3
+[menu.main]
+name = "Blogs"
+weight = 3
 
 +++
 x---
