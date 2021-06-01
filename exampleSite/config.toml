@@ -6,6 +6,10 @@ summaryLength = "10"
 theme = "northendlab-hugo"
 title = "Northendlab | Blog Template"
 [[menu.footer]]
+URL = "blog"
+name = "blog"
+weight = ""
+[[menu.footer]]
 URL = "contact"
 name = "Contact"
 weight = 1
