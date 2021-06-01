@@ -1,5 +1,6 @@
 ---
 tools:
+- title: HelloWorld
 - title: Terraform
   tool:
   - name: Git
