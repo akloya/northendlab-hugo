@@ -2,7 +2,6 @@
 author = "Ajaya Loya"
 categories = ["security"]
 date = 2021-06-01T07:00:00Z
-draft = true
 image = "/images/security-1.jpeg"
 title = "blogs"
 [menu.footer]
