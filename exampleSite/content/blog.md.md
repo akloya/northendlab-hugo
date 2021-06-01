@@ -1,5 +1,8 @@
 +++
 title = "Blog.md"
+[menu.main]
+name = "Blog"
+weight = 3
 
 +++
 x---
