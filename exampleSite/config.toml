@@ -11,7 +11,7 @@ name = "Contact"
 weight = 1
 [[menu.footer]]
 URL = "tools"
-name = "tools"
+name = "Projects"
 weight = 2
 [[menu.main]]
 URL = "contact"
@@ -66,6 +66,9 @@ enable = true
 preloader = ""
 [params.search]
 enable = true
+[[params.social]]
+icon = ""
+link = ""
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
