@@ -26,8 +26,8 @@ URL = "contact"
 name = "Contact"
 weight = 1
 [[menu.main]]
-URL = "tools"
-name = "tools"
+URL = "Projects"
+name = "project"
 weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
